@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "63f6e975c42855eea871098f",
+    "taskNumber": "TC-02185",
+    "name": "Create CRUD operation",
+    "assignee": "Bill Higgins",
+    "description": "Create CRUD operation",
+    "status": "active",
+    "priority": "8",
+    "__v": 0
+  },
+  {
+    "_id": "64002176b1fb63947a1b3227",
+    "taskNumber": "TC-34008",
+    "name": "Build a MERN Stack E-Commerce Web App",
+    "assignee": "Alice Smith",
+    "description": "Build the REST APIs required for the handling cart and the orders in this project",
+    "status": "new",
+    "priority": "5",
+    "__v": 0
+  },
+  {
+    "_id": "64010342b1e8f7a01566d45c",
+    "taskNumber": "TC-67650",
+    "name": "Create VeraCode Service Connection",
+    "assignee": "Alice Smith",
+    "description": "Create VeraCode Service Connection",
+    "status": "closed",
+    "priority": "3",
+    "__v": 0
+  },
+  {
+    "_id": "64010402b1e8f7a01566d461",
+    "taskNumber": "TC-67774",
+    "name": "Spike-Setup Introduction session of DevExpress",
+    "assignee": "Alice Smith",
+    "description": "Setup Introduction session of DevExpress with UI Developers",
+    "status": "active",
+    "priority": "6",
+    "__v": 0
+  },
+  {
+    "_id": "640105d1b1e8f7a01566d473",
+    "taskNumber": "TC-67352",
+    "name": "Dev Test",
+    "assignee": "Mike Lallemont",
+    "description": "Dev Test",
+    "status": "new",
+    "priority": "3",
+    "__v": 0
+  },
+  {
+    "_id": "6401078d173acef9adb49e64",
+    "taskNumber": "TC-67143",
+    "name": "Build common solution",
+    "assignee": "Helena Dellon",
+    "description": "Build common solution",
+    "status": "review",
+    "priority": "2",
+    "__v": 0
+  },
+  {
+    "_id": "64010830173acef9adb49e71",
+    "taskNumber": "TC-67407",
+    "name": "Update OUM backend for UI",
+    "assignee": "Bill Higgins",
+    "description": "Implement consolidation for ui and backend OUM work closed",
+    "status": "closed",
+    "priority": "4",
+    "__v": 0
+  },
+  {
+    "_id": "64035cb68e2fadfb2dd74efd",
+    "taskNumber": "TC-67390",
+    "name": "Card Controllers",
+    "assignee": "Mike Lallemont",
+    "description": "new",
+    "status": "review",
+    "priority": "4",
+    "__v": 0
+  }
+]
